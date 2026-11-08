@@ -1,0 +1,16 @@
+
+Project Name: FindMyCampus
+Track: 1 - An AR Assistant
+
+Target Audience:
+New international students at TH Aschaffenburg.
+
+Problem:
+New international students may have difficulty
+finding classrooms and campus facilities.
+
+Proposed Solution:
+FindMyCampus is an AR-based navigation concept
+that helps new international students find
+classrooms and campus facilities using visual
+directions on their smartphones.

@@ -1,0 +1,25 @@
+# FindMyCampus – Individual Reflection
+
+**Date:** 7 November 2026
+
+**Project:** Track 1 – An AR Assistant
+
+### 1. Which HTML and CSS parts did you contribute?
+
+I worked on the HTML and CSS,graphics and multimedia contributions of the FindMyCampus website. I created and improved sections such as the welcome area, problem and target audience, proposed solution, key features, user journey, and limitations and next steps. I used CSS Grid for the feature cards and made the layout responsive for different screen sizes. I also added the FAQ interaction and helped include the images, audio, and video on the website.
+
+### 2. What other tasks did you complete?
+
+I helped plan the website and prepare the desktop and mobile wireframes. I created an AR navigation mockup and a user journey infographic using GIMP. I recorded and edited the welcome audio using Audacity and edited the website demo video using Shotcut. I also checked the website on desktop, tablet, and mobile screens and took screenshots.
+
+### 3. What problem does your project solve, and how?
+
+New international students may find it difficult to locate classrooms, the library, and other facilities at TH Aschaffenburg. FindMyCampus presents an AR navigation concept that could help them choose a destination and follow virtual direction arrows on their smartphones. It is a concept website, not a fully working AR application.
+
+### 4. What did you change after peer testing?
+
+Our peer tester said that the website's purpose was clear and the navigation looked good. They suggested making the demo video easier to find because it was near the bottom of the page. They also reported a problem with audio playback. We reviewed these two points and focused on improving video visibility and checking the audio player and file path.
+
+### 5. What would you improve with more time?
+
+With more time, I would improve the visual design, add more campus locations, make the multilingual feature more detailed, and test the concept with more international students. In the future, I would like to help develop a real AR navigation prototype.

@@ -1,0 +1,27 @@
+FindMyCampus - Peer Testing and Improvements
+During peer testing, another group tested our Campus Guide website.
+Tested by:
+Date: 7 November 2026
+
+Feedback 1:
+The purpose of our website was clear. Users could easily understand that it helps students navigate around the campus.
+
+Feedback 2:
+The website design and navigation were good. The navigation links worked correctly.
+
+Feedback 3:
+The responsive design worked well on different screen sizes, including Samsung and iPhone devices.
+
+
+Feedback 4:
+The tester said that the demo video was difficult to find because it was placed near the bottom of the website.
+
+Improvement 1:
+We added a demo video link to make it easier for users to find the video.
+
+Feedback 5:
+The tester had difficulty finding and playing the audio.
+
+Improvement 2:
+We checked the audio button and tested the audio playback.
+
